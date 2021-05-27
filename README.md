@@ -39,4 +39,4 @@ However, we processed it and used the following file as the input to our noteboo
 
 **HYPE**: Available to the scientific community through a data agreement. Please fill in the following form: https://forms.gle/M8DDtuMeWGfT3k4y5
 
-**LIANG**: [http://www.nature.com/articles/sdata201820)](http://www.nature.com/articles/sdata201820)
+**LIANG**: [http://www.nature.com/articles/sdata201820](http://www.nature.com/articles/sdata201820)
