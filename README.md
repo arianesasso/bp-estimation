@@ -2,7 +2,7 @@
 
 This repository relates to the following chapter of my thesis:
 
-**Under Pressure: Evaluating Machine Learning Models for Blood Pressure Estimation from PPG Data Beyond Intensive Care**
+**Evaluating Machine Learning Models for Blood Pressure Estimation from PPG Data Beyond Intensive Care**
 
 ----
 For running the notebooks:
