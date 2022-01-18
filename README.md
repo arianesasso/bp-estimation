@@ -1,4 +1,4 @@
-# JAIME 2021
+# Thesis
 
 This repository relates to the following chapter of my thesis:
 
