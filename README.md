@@ -1,8 +1,8 @@
-# JAIME 2021
+# Thesis
 
-This repository relates to the paper:
+This repository relates to the following chapter of my thesis:
 
-**Under Pressure: Evaluating Machine Learning Models for Blood Pressure Estimation from PPG Data Beyond Intensive Care** (Pre-Print)
+**Evaluating Machine Learning Models for Blood Pressure Estimation from PPG Data Beyond Intensive Care**
 
 ----
 For running the notebooks:
