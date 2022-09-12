@@ -21,20 +21,13 @@ The notebooks in `features` process raw PPG data and predict blood pressure for 
 
 `LIANG`: extract_features_and_predict_bp_from_ppg_liang.ipynb
 
-For the code related to secion `3.4` please refer to this repository:
-[PPG-to-BP-Prediction-convnets](https://github.com/suparno89/PPG-to-BP-Prediction-convnets)
-
-For the analysis related to `section 4` (results), you can use the notebooks under `analysis`:
-
-`4.1`: hype_analysis.ipynb
-
-`4.2, 4.3 and 4.4`: hype_analysis.ipynb
+For further analysis, you can use the notebooks under `analysis`.
 
 # Datasets Information
 
 **EVAL**: https://www.kaggle.com/mkachuee/noninvasivebp (original)
 
-However, we processed it and used the following file as the input to our notebook: https://doi.org/10.6084/m9.figshare.12649691
+However, I processed it and used the following file as the input to the notebook: https://doi.org/10.6084/m9.figshare.12649691
 
 
 **HYPE**: Available to the scientific community through a data agreement. Please fill in the following form: https://forms.gle/M8DDtuMeWGfT3k4y5
