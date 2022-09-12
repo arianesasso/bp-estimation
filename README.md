@@ -1,4 +1,4 @@
-# Thesis
+# Blood Pressure Estimation
 
 This repository relates to the following chapter of my thesis:
 
