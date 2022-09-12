@@ -13,7 +13,7 @@ pipenv shell
 pipenv run jupyter notebook
 ```
 
-The notebooks in `features` process raw PPG data and predict blood pressure for 3 different datasets:
+The notebooks in `features` process raw PPG data and estimate blood pressure for 3 different datasets:
 
 `HYPE`: extract_features_and_predict_bp_from_ppg_hype.ipynb
 
