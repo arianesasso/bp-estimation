@@ -1,6 +1,6 @@
 # Blood Pressure Estimation
 
-This repository relates to the following chapter of my thesis:
+This repository relates to the following topic:
 
 **Evaluating Machine Learning Models for Blood Pressure Estimation from PPG Data Beyond Intensive Care**
 
